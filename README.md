@@ -1,14 +1,11 @@
-<p align="center" style="margin-top: 3rem;">
-    <img src="relactive/logo.png" width="450" alt="Productivity Tools Platform Logo" />
-</p>
- <p align="center">
+<p align="center">
  生產力工具平台。前端建立於 <a href="https://vuejs.org/" target="_blank">Vue3.js</a>、 <a href="https://ui.vuestic.dev" target="_blank">Vuestic UI</a> 框架、後端建立於 <a href="https://nestjs.com/" target="_blank">NestJs</a>  框架。旨在建立一個輕量的平台框架以及開發樣板，讓各種提供生產力的工具可以上架及被共享。並提供身分驗證（LDAP）與授權存取特定功能的特性，進行 RBAC（role-based-accesss-control）管控。
  </p>
  <p align="center" style="margin-top: 3rem;">
-    <img src="relactive/login.png" width="450" alt="Productivity Tools Platform Logo" />
+    <img src="relactive/login.png" width="550" alt="Productivity Tools Platform Logo" />
 </p>
  <p align="center" style="margin-top: 3rem;">
-    <img src="relactive/ai-chat.png" width="450" alt="Productivity Tools Platform Logo" />
+    <img src="relactive/ai-chat.png" width="550" alt="Productivity Tools Platform Logo" />
 </p>
 
 ## 專案
