@@ -7,6 +7,9 @@
  <p align="center" style="margin-top: 3rem;">
     <img src="relactive/ai-chat.png" width="550" alt="Productivity Tools Platform Logo" />
 </p>
+ <p align="center" style="margin-top: 3rem;">
+    <img src="relactive/setting.png" width="550" alt="Productivity Tools Platform Logo" />
+</p>
 
 ## 專案
 
